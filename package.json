@@ -1,5 +1,9 @@
 {
   "name": "dicom-viewer",
+  "author": {
+    "name": "Hugo Paulista",
+    "email": "hugoarpaulista@gmail.com"
+  },
   "version": "0.0.1",
   "type": "module",
   "scripts": {
